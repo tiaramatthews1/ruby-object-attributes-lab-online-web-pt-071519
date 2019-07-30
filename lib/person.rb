@@ -6,6 +6,3 @@ end
 def name 
   @name 
 end
-
-beyonce = Person.new("Beyonce")
-beyonce.name
