@@ -1,7 +1,7 @@
 class Person
 def initialize(name, breed)
   @name = "Beyonce"
-  @job = ""
+  @job = "Singer"
 end
 
 def name 
