@@ -1,7 +1,7 @@
 class Person
 def initialize(name, breed)
-  @name = "Fido"
-  @breed = "Beagle"
+  @name = "Beyonce"
+  @job = ""
 end
 
 def name 
@@ -10,6 +10,6 @@ end
 end
 
 def breed
-  @breed 
+  @job 
 end
 end
